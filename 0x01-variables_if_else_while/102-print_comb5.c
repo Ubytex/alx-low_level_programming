@@ -29,7 +29,7 @@ putchar(g);
 putchar(' ');
 putchar(e);
 putchar(i);
-if (h == 57 && g == 57 && e == 57 && i == 57)
+if (h == 57 && g == 56 && e == 57 && i == 57)
 break;
 putchar(',');
 putchar(' ');
